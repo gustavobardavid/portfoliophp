@@ -34,7 +34,7 @@
           <div class="form-group">
             <input type="text" name="task_name" class="form-control" placeholder="Task Name">
           </div>
-          <button type="submit" class="btn btn-primary">Enviar</button>
+          <button type="submit" class="btn btn-primary">Criar</button>
         </form>
         <br>
         <table class="table">
